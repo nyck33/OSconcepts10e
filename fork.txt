@@ -1,0 +1,59 @@
+Script started on 2019-12-19 19:54:09-0800
+(base) ]0;nobu@gold3forever: ~/Documents/COMP3411/PracticeExercises[01;32mnobu@gold3forever[00m:[01;34m~/Documents/COMP3411/PracticeExercises[00m$ ./fork
+5514, 5515, 5516
+0, 5517, 5518
+5514, 5515, 0
+0, 5517, 0
+5514, 0, 5519
+0, 0, 5520
+5514, 0, 0
+(base) ]0;nobu@gold3forever: ~/Documents/COMP3411/PracticeExercises[01;32mnobu@gold3forever[00m:[01;34m~/Documents/COMP3411/PracticeExercises[00m$ 0, 0, 0
+./fork
+5522, 5523, 5525
+0, 5524, 5526
+0, 0, 5527
+0, 0, 0
+5522, 5523, 0
+(base) ]0;nobu@gold3forever: ~/Documents/COMP3411/PracticeExercises[01;32mnobu@gold3forever[00m:[01;34m~/Documents/COMP3411/PracticeExercises[00m$ 5522, 0, 5528
+5522, 0, 0
+0, 5524, 0
+./fork
+5530, 5531, 5532
+5530, 0, 5534
+0, 5533, 5535
+5530, 0, 0
+0, 5533, 0
+0, 0, 0
+(base) ]0;nobu@gold3forever: ~/Documents/COMP3411/PracticeExercises[01;32mnobu@gold3forever[00m:[01;34m~/Documents/COMP3411/PracticeExercises[00m$ 5530, 5531, 0
+0, 0, 5536
+./fork
+5540, 5541, 5543
+0, 5542, 5544
+5540, 0, 5545
+0, 0, 5546
+0, 5542, 0
+5540, 0, 0
+0, 0, 0
+5540, 5541, 0
+(base) ]0;nobu@gold3forever: ~/Documents/COMP3411/PracticeExercises[01;32mnobu@gold3forever[00m:[01;34m~/Documents/COMP3411/PracticeExercises[00m$ ./fork
+5550, 5551, 5552
+5550, 5551, 0
+0, 5553, 5555
+5550, 0, 5554
+0, 5553, 0
+5550, 0, 0
+0, 0, 5556
+(base) ]0;nobu@gold3forever: ~/Documents/COMP3411/PracticeExercises[01;32mnobu@gold3forever[00m:[01;34m~/Documents/COMP3411/PracticeExercises[00m$ 0, 0, 0
+./fork
+5558, 5559, 5560
+5558, 0, 5561
+0, 5562, 5563
+5558, 5559, 0
+5558, 0, 0
+0, 5562, 0
+0, 0, 5564
+(base) ]0;nobu@gold3forever: ~/Documents/COMP3411/PracticeExercises[01;32mnobu@gold3forever[00m:[01;34m~/Documents/COMP3411/PracticeExercises[00m$ 0, 0, 0
+exit
+exit
+
+Script done on 2019-12-19 19:54:43-0800
